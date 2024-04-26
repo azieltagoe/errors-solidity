@@ -1,1 +1,1 @@
-# errors-solidity
+errors contract basically showing how errors are handlesd in solidity. This contract talks about a cup with a max litres of 5 and how require, assert annd revert can be used to handle errors with respect to adding water to the cup and pouring water out of the cup.
